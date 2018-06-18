@@ -1,4 +1,5 @@
 <resources>
+    <!--Layout MainActivity -->
     <string name="app_name">task-app</string>
     <string name="SummaryTitle">Summary</string>
     <string name="TaskToDo">Task To Do</string>
@@ -6,4 +7,19 @@
     <string name="TaskDone">Task Done</string>
     <string name="New">New</string>
     <string name="ShowAll">Show All</string>
+
+    <!--Layout de NewTaskFormActivity -->
+    <string name="Cancel">Cancel</string>
+    <string name="Save">Save</string>
+    <string name="Done">Done</string>
+    <string name="LongDesc">Long Description</string>
+    <string name="ShortDesc">Short Description</string>
+    <string name="Percentage">%</string>
+    <string name="intPercentage">0</string>
+
+    <!--Layout de TaskListActivity -->
+     <string name="BtnDone">Done</string>
+    <string name="BtnToDo">To Do</string>
+    <string name="BtnDoing">Doing</string>
+    <string name="BtnAll">All</string>
 </resources>
